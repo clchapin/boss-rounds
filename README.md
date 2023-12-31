@@ -2,7 +2,7 @@
 # BTD6 v40 Notification
 
 **I have currently hidden Boss Rounds from the Mod Browser for the moment until a workaround can be found for v40.**
-**A core feature of the mod, being able to save the Boss Rounds games to the map's save slots, is now seemingly unpatchable with the current MelonLoader without causing the crashes people experience.**
+** hi its me the person who forked it so i am working on fixing it for doom bubbls**
 **Without that functionality, the primary feature set of the mod can't be made operational.**
 
 **Until a workaround can be found, stick with the new official Boss Challenges that NK has added.**
